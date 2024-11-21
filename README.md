@@ -7,7 +7,6 @@
 
 Access the live project [here](https://aihealthguard-io.onrender.com). (Note: Please Wait the website may take a few seconds to load.)
 
-![Home_1](https://github.com/alokchoudhary05/AI-HEALTH-GUARD/assets/148992523/8e4c39e5-f8c9-493f-965b-f86a92e0ac22)
 
 ---
 
@@ -39,7 +38,7 @@ The symptoms-disease prediction model is a key component of the project, designe
 - **Precautions & Medications:** Recommendations for preventive measures and suitable medications
 - **Workouts & Diets:** Personalized exercise routines and dietary plans for better health management
 
-![Home_2](https://github.com/alokchoudhary05/AI-HEALTH-GUARD/assets/148992523/c1f8ab52-e03f-4ac8-a2b5-71b395a5c93a)
+
 
 
 ## 💡Technologies Used
@@ -75,14 +74,13 @@ The symptoms-disease prediction model is a key component of the project, designe
 Access the live project [here](https://aihealthguard-io.onrender.com). (Note: Please Wait the website may take a few seconds to load.)
 
 ## 💡Repository
-Find the complete project code on GitHub: [AI Health Guard GitHub Repository](https://github.com/alokchoudhary05/AI-HEALTH-GUARD)
+Find the complete project code on GitHub: [AI Health Guard GitHub Repository](https://github.com/minku123/ai-health-guard)
 
 ## 💡Conclusion
 AI Health Guard represents a significant step towards making quality healthcare accessible to all. By providing early diagnosis and personalized health recommendations, it aims to improve overall health outcomes and promote proactive health management.
 
-![Home_3](https://github.com/alokchoudhary05/AI-HEALTH-GUARD/assets/148992523/fc5b7063-de6d-4c0f-95b9-518c010f3faf)
 
 ---
 
-© 2024 Alok Choudhary. All rights reserved.
+© 2024 Minku Singh. All rights reserved.
 >>>>>>> 9b180ef (Initial commit)
